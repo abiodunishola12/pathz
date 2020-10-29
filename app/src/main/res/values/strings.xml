@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pathz-Intelligent Pathology Platform</string>
+    <string name="title_hint">Pathology Test</string>
+    <string name="price_hint">Mortality Rating(number between 0 and 100)</string>
+    <string name="description_hint">Test Description and Interpretation</string>
+    <string name="save_menu">save</string>
+    <string name="delete_deal">Delete Pathology Details</string>
+</resources>
